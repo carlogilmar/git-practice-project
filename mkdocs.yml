@@ -1,1 +1,7 @@
-site_name: My Docs
+site_name: Git/Github Course for .Net Class
+pages:
+  - Home: index.md
+  - About: about.md
+  - Prácticas:
+    - 'Topic 1: First Commit': 'practica_uno.md'
+    - 'Topic 2: Linking with Github': 'practica_dos.md'
