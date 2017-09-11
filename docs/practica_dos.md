@@ -135,6 +135,11 @@ In some cases you can have more commits in your remote repository, but when you 
 With this command you will download the lastest changes in your remote repository.
 
 
+### Exercise 2
+
+1. Create a new remote repository in github
+2. Push your project created in Exercise 1
+
 
 
 

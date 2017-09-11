@@ -151,10 +151,16 @@ Save the change with control version:
 > git commit -m "Adding a change on file.txt, this is my example reference"
 
 
-## Exercise
+## Exercise 1
 
-1. Create a folder
-2. Initial a git repository
-3. Create a text file
-4. Make 5 changes
-5. Add to control version (git add and git commit) every change, one by one (if you type git log you will see five references)
+1. See the Mkdocs Project, and create your own project.
+2. Create your git repository and commit all the files.
+3. Add your first markdown file called **me.md** and write about you.
+4. Modify your mkdocs.yml for modify the visual part.
+5. Modify your index.md
+6. For every modification or adding, please commit.
+7. See the log and see your commits.
+
+
+
+

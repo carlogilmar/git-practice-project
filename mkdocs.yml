@@ -5,3 +5,4 @@ pages:
   - Prácticas:
     - 'Topic 1: First Commit': 'practica_uno.md'
     - 'Topic 2: Linking with Github': 'practica_dos.md'
+    - 'MkDocs Project': 'mkdocs.md'
