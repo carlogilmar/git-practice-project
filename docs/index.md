@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Git/Github IPN, Upiicsa 2017.
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+Espacio de los alumnos de la clase de .Net
 
-## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+## Propósito
 
-## Project layout
+Crear un espacio para compartir práticas y avances en nuestro proceso de aprendizaje de la herramienta GIT y la plataforma GITHUB.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Únete al chat: [Chat de Slack](https://gitgroupstudy.slack.com/)
+
